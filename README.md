@@ -9,7 +9,7 @@ You may need to do some other things - google it.
 
 If you need to make huge and potentially program breaking changes, create a new branch.
 
-Linux, Windows, and Mac comparison table:
+Support table:
 
 |                                              | Linux             | Windows        | Mac    | ChromeOS                                   |
 | - | - | -------        | ---    | --------                                   |
