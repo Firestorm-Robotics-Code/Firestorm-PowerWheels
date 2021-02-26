@@ -19,4 +19,5 @@ If you need to make huge and potentially program breaking changes, create a new 
 | Ease of use for me | yes               | nope           | barely | absolutely not                             |
 | Ease of use for other programmers | maybe             | yes            | fair   | Nope cubed                                 |
 | Atom (code editor - likely unnecessary) | awesomely perfect | bad            | goodly | probably not - bordering on absolutely no. |
+| Terminal interface | Extremely good | No | Very good | Definitively not |
 | Otherwise goodliness | yes               | absolutely not | ok     | Terrible by definition |
